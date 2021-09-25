@@ -5,6 +5,7 @@ We are dedicated to ending censorship
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
 - [Smoke]() - Proxy of Fog Network and Ludicrous
 - [Avo.js]() - Bookmarklet with DevTools
+- [Rusty](https://github.com/FogNetwork/Rusty) - A simple frontend design for Corrosion
 
 **Staff**
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner of FN
