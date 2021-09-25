@@ -3,7 +3,7 @@ We are dedicated to ending censorship
 
 **Projects**
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
-- [Smoke]() - Proxy of Fog Network and Ludicrous
+- [Smoke]() - Web Proxy
 - [Avo.js]() - Bookmarklet with DevTools
 - [Rusty](https://github.com/FogNetwork/Rusty) - A simple frontend design for Corrosion
 
