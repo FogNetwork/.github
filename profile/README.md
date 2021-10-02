@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100px" src="../img/FN.svg">
+<img width="120px" src="https://raw.githubusercontent.com/FogNetwork/.github/main/img/FN2.png">
 </p>
 
 <h1 align="center">Fog Network</h1>
