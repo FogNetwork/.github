@@ -18,10 +18,10 @@ We are dedicated to ending censorship
 - Open Source
 
 ### Projects
-- [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy Site
-- [Smoke](https://github.com/FogNetwork/Smoke) - Web Proxy
+- [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
+- [Palladium](https://github.com/FogNetwork/Palladium) - Web Proxy
 - [Rusty](https://github.com/FogNetwork/Rusty) - Frontend for Corrosion
-- Avo.js - Bookmarklet
+- Avo - Bookmarklet
 
 ### Staff
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner of FN
