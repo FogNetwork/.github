@@ -19,6 +19,7 @@ We are dedicated to ending censorship
 
 ### Projects
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
+- [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Palladium](https://github.com/FogNetwork/Palladium) - Web Proxy
 - [Rusty](https://github.com/FogNetwork/Rusty) - Frontend for Corrosion
 - Avo - Bookmarklet
