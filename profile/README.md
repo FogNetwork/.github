@@ -24,6 +24,6 @@ We are dedicated to ending censorship
 - [Rusty](https://github.com/FogNetwork/Rusty) - Frontend for Corrosion
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 
-### Staff
-- [Nebelung](https://github.com/Nebelung-Dev) - Owner of FN
-- [EnderKingJ](https://github.com/EnderKingJ) - Creator of Smoke
+### Contributors
+- [Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
+- [EnderKingJ](https://github.com/EnderKingJ) - Creator of Palladium
