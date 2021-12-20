@@ -22,7 +22,7 @@ We are dedicated to ending censorship
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Palladium](https://github.com/LudicrousDevelopment/Palladium) - Web Proxy (Moved to Ludicrous)
 - [Rusty](https://github.com/FogNetwork/Rusty) - Frontend for Corrosion
-- Avo - Bookmarklet
+- [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 
 ### Staff
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner of FN
