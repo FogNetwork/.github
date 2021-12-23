@@ -20,6 +20,7 @@ We are dedicated to ending censorship
 ### Projects
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
+- [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
 - [Palladium](https://github.com/LudicrousDevelopment/Palladium) - Web Proxy (Moved to Ludicrous)
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 
