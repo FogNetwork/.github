@@ -21,6 +21,7 @@ We are dedicated to ending censorship
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
+- [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Palladium](https://github.com/LudicrousDevelopment/Palladium) - Web Proxy (Moved to Ludicrous)
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 
