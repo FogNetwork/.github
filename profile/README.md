@@ -8,6 +8,7 @@
 <a href="https://discord.gg/yk33HZSZkU"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
 <a href="https://github.com/FogNetwork"><img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img></a>
 <a href="https://replit.com/@FogNetwork"><img height="30px" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"><img></a>
+<a href="https://twitter.com/Fog_Network"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img></a>
 </p>
 
 ### About
