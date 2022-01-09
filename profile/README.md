@@ -22,9 +22,12 @@ We are dedicated to ending censorship
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
+- [Nightmare](https://github.com/FogNetwork/Nightmare) - WIP site
+- [Nightmare Windows](https://github.com/FogNetwork/Nightmare-Windows) - Windows
 - [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
-- [Palladium](https://github.com/LudicrousDevelopment/Palladium) - Web Proxy (Moved to Ludicrous)
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
+- [Vapor](https://github.com/FogNetwork/Vapor) - Bookmarklet With Tools
+- [Palladium](https://github.com/LudicrousDevelopment/Palladium) - Web Proxy (Moved to Ludicrous)
 
 ### Contributors
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
