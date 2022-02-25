@@ -22,7 +22,7 @@ We are dedicated to ending censorship
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
-- [Eclipse] - Web Proxy (WIP)
+- Eclipse - Web Proxy (WIP)
 - Nightmare - Online OS project
 - [Nightmare Windows](https://github.com/FogNetwork/Nightmare-Windows) - Windows
 - [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
