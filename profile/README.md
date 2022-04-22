@@ -23,7 +23,7 @@ We are dedicated to ending censorship
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
 - Eclipse - Web Proxy (WIP)
-- Nightmare - Online OS project
+- [Nightmare](https://github.com/FogNetwork/Nightmare) - Online OS project
 - [Nightmare Windows](https://github.com/FogNetwork/Nightmare-Windows) - Windows
 - [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
