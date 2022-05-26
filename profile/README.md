@@ -19,10 +19,10 @@ We are dedicated to ending censorship
 - Open Source
 
 ### Projects
+**Main**
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
-- Eclipse - Web Proxy (WIP)
 - [Nightmare](https://github.com/FogNetwork/Nightmare) - Online OS project
 - [Nightmare Windows](https://github.com/FogNetwork/Nightmare-Windows) - Windows
 - [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
@@ -30,6 +30,23 @@ We are dedicated to ending censorship
 - [Vapor](https://github.com/FogNetwork/Vapor) - Bookmarklet With Tools
 - [A:BC](https://github.com/FogNetwork/ABC) - Javascript library for hidden urls
 
+**Upcoming**
+- Lunar Eclipse (Eclipse) - Web Proxy using TOMP
+- Solar Eclipse - Lunar Eclipse but without TOMP
+
+**Archived**
+- [Rusty](https://github.com/FogNetwork/Rusty) - Simple frontend for Corrosion
+- [Smoke](https://github.com/FogNetwork/Smoke) - Old proxy by Ender
+
+**Private**
+- Chatutils - Chatbox forked from [TN's Chatutils](https://github.com/titaniumnetwork-dev/chatutils)
+- Fog Bot - Full bot for the Fog Network server
+- Fog Bot Old - Old proxy bot
+- Fog Community - Old community proxy bot based off "Fog Bot Old"
+
+**Other**
+- [.github](https://github.com/FogNetwork/.github) - Config files
+
 ### Contributors
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
-- [EnderKingJ](https://github.com/EnderKingJ) - Creator of Palladium
+- [EnderKingJ](https://github.com/EnderKingJ) - Creator of Smoke. Also helped me with code
