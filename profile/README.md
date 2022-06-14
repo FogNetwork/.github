@@ -21,6 +21,7 @@ We are dedicated to ending censorship
 ### Projects
 **Main**
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
+- [Tsunami Lite](https://github.com/FogNetwork/Tsunami-Lite) - Tsunami No Server
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
 - [Nightmare](https://github.com/FogNetwork/Nightmare) - Online OS project
