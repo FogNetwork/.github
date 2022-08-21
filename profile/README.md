@@ -26,7 +26,6 @@ We are dedicated to ending censorship
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
 - [Nightmare](https://github.com/FogNetwork/Nightmare) - Online OS project
 - [Nightmare Windows](https://github.com/FogNetwork/Nightmare-Windows) - Windows
-- [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 - [Vapor](https://github.com/FogNetwork/Vapor) - Bookmarklet With Tools
 - [A:BC](https://github.com/FogNetwork/ABC) - Javascript library for hidden urls
@@ -37,6 +36,7 @@ We are dedicated to ending censorship
 
 **Archived**
 - [Rusty](https://github.com/FogNetwork/Rusty) - Simple frontend for Corrosion
+- [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Smoke](https://github.com/FogNetwork/Smoke) - Old proxy by Ender
 
 **Private**
