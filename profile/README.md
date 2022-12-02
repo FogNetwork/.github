@@ -32,9 +32,9 @@ We are dedicated to ending censorship
 
 **Upcoming**
 - Lunar Eclipse (Eclipse) - Web Proxy using TOMP
-- Solar Eclipse - Lunar Eclipse but without TOMP
 
 **Archived**
+- [Solar Eclipse](https://github.com/FogNetwork/Solar-Eclipse) - Lunar Eclipse but without TOMP
 - [Rusty](https://github.com/FogNetwork/Rusty) - Simple frontend for Corrosion
 - [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Smoke](https://github.com/FogNetwork/Smoke) - Old proxy by Ender
