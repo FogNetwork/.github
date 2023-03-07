@@ -12,14 +12,16 @@
 </p>
 
 ### About
-We are dedicated to ending censorship
+We are dedicated to ending censorship.
+
+Thanks you to everyone in this everyone, Fog Network has now died :(
+
 - Bypass Internet Filters
 - Privacy Respecting
 - Good Looking
 - Open Source
 
 ### Projects
-**Main**
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy Site
 - [Tsunami Lite](https://github.com/FogNetwork/Tsunami-Lite) - Tsunami No Server
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy Site
@@ -29,24 +31,10 @@ We are dedicated to ending censorship
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 - [Vapor](https://github.com/FogNetwork/Vapor) - Bookmarklet With Tools
 - [A:BC](https://github.com/FogNetwork/ABC) - Javascript library for hidden urls
-
-**Upcoming**
-- Lunar Eclipse (Eclipse) - Web Proxy using TOMP
-
-**Archived**
 - [Solar Eclipse](https://github.com/FogNetwork/Solar-Eclipse) - Lunar Eclipse but without TOMP
 - [Rusty](https://github.com/FogNetwork/Rusty) - Simple frontend for Corrosion
 - [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Smoke](https://github.com/FogNetwork/Smoke) - Old proxy by Ender
-
-**Private**
-- Chatutils - Chatbox forked from [TN's Chatutils](https://github.com/titaniumnetwork-dev/chatutils)
-- Fog Bot - Full bot for the Fog Network server
-- Fog Bot Old - Old proxy bot
-- Fog Community - Old community proxy bot based off "Fog Bot Old"
-
-**Other**
-- [.github](https://github.com/FogNetwork/.github) - Config files
 
 ### Contributors
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
